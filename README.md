@@ -2,3 +2,4 @@
 
 - [정](./jeong.md)
 - [시지프](./sisyphe.md)
+- [준찌](./juunzzi.md)
